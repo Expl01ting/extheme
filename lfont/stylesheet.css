@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Leyla-web';
+    src: url('leyla.eot');
+    src: url('leyla.eot?#iefix') format('embedded-opentype'),
+        url('leyla.woff2') format('woff2'),
+        url('leyla.woff') format('woff'),
+        url('leyla.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
